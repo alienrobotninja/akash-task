@@ -10,6 +10,6 @@ DevOps Hiring Task for Akash
 
 ## Seeking Help
 
-* If you need any help, you can check the [Docs](https://docs.akash.network/) as well as both [theirs](https://discord.com/invite/akash) and [CloudMos'](https://discord.gg/rXDFNYnFwv) Discord servers
+* If you need any help, you can check with us on Basecamp,  the Akash [Docs](https://docs.akash.network/) as well as both [their's](https://discord.com/invite/akash) and [CloudMos'](https://discord.gg/rXDFNYnFwv) Discord servers
 * Remember to always be polite, to describe clearly what problems your ar having, what you've done, and how you attempted to solve it.
 * Make sure you've already tried solving the problem by going through the normal channels (docs, Google, StackOverflow) before asking for help.
