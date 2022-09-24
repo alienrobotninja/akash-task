@@ -1,11 +1,14 @@
 # akash-task
 DevOps Hiring Task for Akash
 
+
+* Clone this repo, create a branch, and make all your changes in the branch
 * Follow the instructions [here](https://docs.akash.network/guides/deploy) to download and  setup [CloudMos](https://cloudmos.io/) on your computer
 * Share your wallet address on Basecamp so you can receive some tokens.
 * Deploy the [App](../akash-task/app/) folder to Akash
 * share a working link to the hosted project.
 * Contact us if any issues come up.
+* Once done add the setup files and docker images, as well as setup instructions to the branch and make a PR
 * Upon completion, write an explanation on how you got the project hosted, and share your challenges.
 
 ## Seeking Help
