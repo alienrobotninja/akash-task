@@ -1,0 +1,14 @@
+##Build image based on dockerfile
+docker build -t akashv1 .
+
+##Run the image as a container to test it
+docker run -d --name akashcon -p 8080:80 akashv1
+
+##Login to docker hub
+docker login
+
+##Tag Image for onward push to docker hub
+docker image tag akashv1:latest  devkush/akashv1:latest
+
+##Push Image to dockerhub
+docker image push devkush/akashv1
