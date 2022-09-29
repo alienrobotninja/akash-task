@@ -3,12 +3,12 @@ DevOps Hiring Task for Akash
 
 
 * Clone this repo, create a branch, and make all your changes in the branch
-	- The repo was well cloned, then a branch (devops) was created successfully and all changes where made in the new branch
+	- The repo was well cloned, then a branch (Idris) was created successfully and all changes where made in the new branch
 * Follow the instructions [here](https://docs.akash.network/guides/deploy) to download and  setup [CloudMos](https://cloudmos.io/) on your computer
 	-the instruction to download and setup a wallet was done successfully with keplr
 	-The desktop setup for [CloudMos](https://cloudmos.io/) on my computer was swift following the Docmentation stepwisely
 * Share your wallet address on Basecamp so you can receive some tokens.
-	- My wallet address akash152myjv0t4xvkc8v5ecn9d8fe0jm6r7jl0x7u8f was generated from keplr extension on my chrome and 10AKT token was deposited to it after sharing
+	- My wallet address akash152my.... was generated from keplr extension on my chrome and 10AKT token was deposited to it after sharing
 * Deploy the [App](../akash-task/app/) folder to Akash
 	- The App deployment process was done in three (3) phases which are;
 	- 1: Isolated environmrnt
@@ -23,9 +23,9 @@ DevOps Hiring Task for Akash
 * Contact us if any issues come up.
 	- I did with 0iclid on basecamp and he did help me with SDL yamlfile
 * Once done add the setup files and docker images, as well as setup instructions to the branch and make a PR
-	- Okay, Check the [app folder](Sir-Kush/akash-task/app) for the setup files and docker image as well as the setup instructions
+	- Okay, Check the [app folder](alienrobotninja/akash-task/app) for the setup files and docker image as well as the setup instructions
 * Upon completion, write an explanation on how you got the project hosted, and share your challenges.
-	- Okay, check the [here](Sir-Kush/akash-task/challenges.txt)
+	- Okay!
 
 ## Seeking Help
 
