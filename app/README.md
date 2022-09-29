@@ -1,20 +1,20 @@
 # Niftiqet
 
-## Build Setup
+##Build image based on dockerfile
+$ docker build -t akashv1 .
 
-```bash
-# install dependencies
-$ yarn install
+##Run the image as a container to test it
+$ docker run -d --name akashcon -p 8080:80 akashv1
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+##Login to docker hub
+$ docker login
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+##Tag Image for onward push to docker hub
+$ docker image tag akashv1:latest  devkush/akashv1:latest
 
-# generate static project
-$ yarn generate
+##Push Image to dockerhub
+$ docker image push devkush/akashv1
+
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
@@ -66,3 +66,4 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
